@@ -7,7 +7,8 @@ public class SampleJPA {
 
     public static void main(String[] args) {
         // Para probar cada método, descomenta la llamada al método correspondiente
-        // listar();
+        
+    	// listar();
         // insertar(3, "1990-01-01", "John", "Doe", 'M', "2020-01-01");
         // buscarPorId(4);
         // actualizar(1, "1964-06-02", "Josesito", "Hibrevloxk", 'M', "1986-12-01");
